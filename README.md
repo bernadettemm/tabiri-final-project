@@ -4,7 +4,8 @@
 
 This project implements a mobile application for predicting heart disease risk based on user inputs. 
 The application includes a Flutter mobile application, a Flask API for machine learning prediction, and a Streamlit app for data visualization.
-![Alt Text](image_url)
+
+![Alt Text](Login page.jpeg)
 
 
 ## Table of Contents
