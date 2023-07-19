@@ -4,10 +4,10 @@
 
 This project implements a mobile application for predicting heart disease risk based on user inputs. 
 The Project includes:
-- A Flutter mobile application,
+- A Flutter mobile application: This is to be used by end user and provides an interface to interact with the prediction system and gain knowledge on everything related to heart diseases. (The ML model used for prediction is logistic regression)
 <img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Login%20page.jpeg?raw=true" alt="Alt Text" width="300">
-- A streamlit App for data visualization which also acts as the UI for the prediction system.
-  <img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Streamlit%20app.png?raw=true" alt="Alt Text" width="300">
+- A streamlit App: for data visualization and contain different ML models used.
+  <img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Streamlit%20app.png?raw=true" alt="Alt Text" width="500">
 - A flask API connected to the mobile application for the machine learning prediction.
 
 ## Table of Contents
@@ -67,8 +67,8 @@ The app should build and install on the connected device or emulator.
 3. Activate the virtual environment:
    - On Windows: `venv\Scripts\activate`
    - On macOS/Linux: `source venv/bin/activate`
-4. Install the required Python packages: `pip install -r requirements.txt`
-5. Run the Streamlit app: `streamlit run streamlit_app.py`
+4. Install the required Python packages: `pip3 install -r requirements.txt`
+5. Run the Streamlit app: `streamlit run app.py`
 
 The app should start running, and a local URL will be provided to access the app in the browser.
 
