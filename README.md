@@ -9,6 +9,7 @@ The Project includes:
 - A streamlit App: for data visualization and contain different ML models used.
   <img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Streamlit%20app.png?raw=true" alt="Alt Text" width="500">
   (https://tabirifyp.streamlit.app/)
+  
 - A flask API connected to the mobile application for the machine learning prediction.
 
 ## Table of Contents
