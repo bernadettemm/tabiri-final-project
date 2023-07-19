@@ -4,7 +4,8 @@
 
 This project implements a mobile application for predicting heart disease risk based on user inputs. 
 The Project includes:
-- A Flutter mobile application, 
+- A Flutter mobile application,
+<img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Login%20page.jpeg?raw=true" alt="Alt Text" width="300">
 - A streamlit App for data visualization which also acts as the UI for the prediction system.
 - A flask API connected to the mobile application for the machine learning prediction.
 
