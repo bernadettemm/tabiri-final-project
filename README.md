@@ -6,6 +6,8 @@ This project implements a mobile application for predicting heart disease risk b
 The application includes a Flutter mobile application, a Flask API for machine learning prediction, and a Streamlit app for data visualization.
 
 ![Tabiri App](https://github.com/bernadettemm/tabiri-final-project/blob/main/Login%20page.jpeg?raw=true)
+<img src="image_url" alt="Alt Text" width="300">
+
 
 
 ## Table of Contents
