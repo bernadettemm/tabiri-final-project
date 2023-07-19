@@ -4,9 +4,9 @@
 
 This project implements a mobile application for predicting heart disease risk based on user inputs. 
 The Project includes:
-1: A Flutter mobile application, 
-2: A streamlit App for data visualization which also acts as the UI for the prediction system.
-3: A flask API connected to the mobile application for the machine learning prediction.
+- A Flutter mobile application, 
+- A streamlit App for data visualization which also acts as the UI for the prediction system.
+- A flask API connected to the mobile application for the machine learning prediction.
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@ The Flask API will start running at `http://127.0.0.1:8000`.
 3. Run the Flutter app: `flutter run`
 
 The app should build and install on the connected device or emulator.
-<img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Login%20page.jpeg?raw=true" alt="Alt Text" width="300">
+
 
 ### Streamlit App Setup
 
