@@ -85,4 +85,6 @@ The app should start running, and a local URL will be provided to access the app
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to create a pull request or open an issue.
 
+Github repository (https://github.com/bernadettemm/tabiri-final-project) 
+
 
