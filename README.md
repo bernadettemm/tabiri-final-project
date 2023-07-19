@@ -7,6 +7,7 @@ The Project includes:
 - A Flutter mobile application,
 <img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Login%20page.jpeg?raw=true" alt="Alt Text" width="300">
 - A streamlit App for data visualization which also acts as the UI for the prediction system.
+  <img src="https://github.com/bernadettemm/tabiri-final-project/blob/main/Streamlit%20app.png?raw=true" alt="Alt Text" width="300">
 - A flask API connected to the mobile application for the machine learning prediction.
 
 ## Table of Contents
